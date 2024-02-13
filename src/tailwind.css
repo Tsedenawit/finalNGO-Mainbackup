@@ -1,0 +1,44 @@
+/* Tailwind CSS styles */
+
+/* Set up basic container styles */
+.max-w-screen-xl {
+    max-width: 1280px; /* Adjust as needed */
+  }
+  
+  /* Set up transition for opacity changes */
+  .transition-opacity {
+    transition-property: opacity;
+  }
+  
+  /* Set up duration for the transition */
+  .duration-500 {
+    transition-duration: 500ms; /* Adjust as needed */
+  }
+  
+  /* Set up styles for the image slider */
+  .relative {
+    position: relative;
+  }
+  
+  /* Set up styles for the images within the slider */
+  .w-full {
+    width: 100%;
+  }
+  
+  .h-full {
+    height: 100%;
+  }
+  
+  .object-cover {
+    object-fit: cover;
+  }
+  
+  /* Set up styles for active and inactive images */
+  .opacity-0 {
+    opacity: 0;
+  }
+  
+  .opacity-100 {
+    opacity: 1;
+  }
+  
