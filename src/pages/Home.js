@@ -117,31 +117,47 @@ With heartfelt appreciation,
     </div>
   </figcaption>
 </figure>
+<figure className="snip1515 hover:scale-110 ">
+  <div className="profile-image"><img src={IMG2}alt="sample47" /></div>
+  <figcaption>
+    <h3>ብንያም ሰለሞን</h3>
+    <h4>Member of the board</h4>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+    <div className="icons"><a href="#"><i className="ion-social-reddit"></i></a>
+      <a href="#"> <i className="ion-social-twitter"></i></a>
+      <a href="#"> <i className="ion-social-vimeo"></i></a>
+    </div>
+  </figcaption>
+</figure>
+<figure className="snip1515 hover:scale-110 ">
+  <div className="profile-image"><img src={IMG3}alt="sample47" /></div>
+  <figcaption>
+    <h3>ሠላም አበበ</h3>
+    <h4>Member of the board</h4>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+    <div className="icons"><a href="#"><i className="ion-social-reddit"></i></a>
+      <a href="#"> <i className="ion-social-twitter"></i></a>
+      <a href="#"> <i className="ion-social-vimeo"></i></a>
+    </div>
+  </figcaption>
+</figure>
+<figure className="snip1515 hover:scale-110 ">
+  <div className="profile-image"><img src={IMG4}alt="sample47" /></div>
+  <figcaption>
+    <h3>አዲስአለም ገብረእግዚአብሔር</h3>
+    <h4>Member of the board</h4>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+    <div className="icons"><a href="#"><i className="ion-social-reddit"></i></a>
+      <a href="#"> <i className="ion-social-twitter"></i></a>
+      <a href="#"> <i className="ion-social-vimeo"></i></a>
+    </div>
+  </figcaption>
+</figure>
 </div>
 
-          <div>
+          {/* <div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-7 m-10 ">
   
-          <div className="border h-96 shadow-lg  flex flex-col hover:scale-110 "> 
-             <div><img  className="w-full h-64 mb-5" src={HAREGEWEYIN}/></div>
-             <div><p className="text-center lg:text-xl font-bold text-blue-600">ፕሮፌሰር ሐረገወይን አሰፋ</p></div>
-                <div><p className="text-center lg:text-xl font-bold">የቦርዱ አባል</p></div>
-                <div><p className="text-center lg:text-xl font-bold">Member of the board</p></div>
-             </div>
-
-             <div className="border h-96 shadow-lg  flex flex-col hover:scale-110  ">
-                <div><img  className="w-full h-64 mb-5 " src={SENAY}/></div>
-                <div><p className="text-center lg:text-xl font-bold text-blue-600">ሠናይ አለምነህ</p></div>
-                <div><p className="text-center lg:text-xl font-bold">የቦርዱ ፀሃፊ እና የአይቲ ባለሙያ</p></div>
-                <div><p className="text-center lg:text-xl font-bold">Board Clerk and IT specialist</p></div>
-             </div>
-            
-             <div className="border h-96 shadow-lg  flex flex-col hover:scale-110 ">
-             <div><img  className="w-full h-64 mb-5" src={IMG1}/></div>
-             <div><p className="text-center lg:text-xl font-bold text-blue-600">ይበልጣል አማረ</p></div>
-                <div><p className="text-center lg:text-xl font-bold">የቦርዱ ገንዘብ ያዥ</p></div>
-                <div><p className="text-center lg:text-xl font-bold">Member of the board</p></div>
-             </div>
              <div className="border h-96 shadow-lg  flex flex-col hover:scale-110 ">
              <div><img  className="w-full h-64 mb-5" src={IMG2}/></div>
              
@@ -165,7 +181,7 @@ With heartfelt appreciation,
 
 
 
-        </div>
+        </div> */}
         </div>
     <Footer />
   </div>
